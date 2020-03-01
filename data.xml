@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <element>
+    <symbol>H</symbol>
+    <name>Гідроген</name>
+    <number>1</number>
+    <mass>1,0079</mass>
+    <group>1</group>
+    <period>1</period>
+    <class>інший неметал</class>
+  </element>
+  <element>
+    <symbol>He</symbol>
+    <name>Гелій</name>
+    <number>2</number>
+    <mass>1,0079</mass>
+    <group>1</group>
+    <period>18</period>
+    <class>інертний газ</class>
+  </element>
+  <element>
+    <symbol>Li</symbol>
+    <name>Літій</name>
+    <number>3</number>
+    <mass>6,941</mass>
+    <group>2</group>
+    <period>1</period>
+    <class>лужний метал</class>
+  </element>
+  <element>
+    <symbol>Be</symbol>
+    <name>Берилій</name>
+    <number>4</number>
+    <mass>9,012</mass>
+    <group>2</group>
+    <period>2</period>
+    <class>лужноземельний метал</class>
+  </element>
+  <element>
+    <symbol>B</symbol>
+    <name>Бор</name>
+    <number>5</number>
+    <mass>10,811</mass>
+    <group>2</group>
+    <period>13</period>
+    <class>напівметал</class>
+  </element>
+  <element>
+    <symbol>C</symbol>
+    <name>Вуглець</name>
+    <number>6</number>
+    <mass>12,011</mass>
+    <group>2</group>
+    <period>14</period>
+    <class>інший неметал</class>
+  </element>
+  <element>
+    <symbol>N</symbol>
+    <name>Азот</name>
+    <number>7</number>
+    <mass>14,007</mass>
+    <group>2</group>
+    <period>15</period>
+    <class>інший неметал</class>
+  </element>
+  <element>
+    <symbol>O</symbol>
+    <name>Кисень</name>
+    <number>8</number>
+    <mass>15,999</mass>
+    <group>16</group>
+    <period>2</period>
+    <class>інший неметал</class>
+  </element>
+  <element>
+    <symbol>F</symbol>
+    <name>Флуор</name>
+    <number>9</number>
+    <mass>18,998403</mass>
+    <group>2</group>
+    <period>17</period>
+    <class>галоген</class>
+  </element>
+  <element>
+    <symbol>Ne</symbol>
+    <name>Неон</name>
+    <number>10</number>
+    <mass>20,1797</mass>
+    <group>2</group>
+    <period>18</period>
+    <class>інертний газ</class>
+  </element>
+  <element>
+    <symbol>Na</symbol>
+    <name>Натрій</name>
+    <number>11</number>
+    <mass>22,989768</mass>
+    <group>3</group>
+    <period>1</period>
+    <class>лужний метал</class>
+  </element>
+</root>

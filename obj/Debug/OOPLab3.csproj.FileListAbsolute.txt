@@ -1,0 +1,9 @@
+C:\Users\Sander\source\repos\OOPLab3\OOPLab3\bin\Debug\OOPLab3.exe.config
+C:\Users\Sander\source\repos\OOPLab3\OOPLab3\bin\Debug\OOPLab3.exe
+C:\Users\Sander\source\repos\OOPLab3\OOPLab3\bin\Debug\OOPLab3.pdb
+C:\Users\Sander\source\repos\OOPLab3\OOPLab3\obj\Debug\OOPLab3.csprojAssemblyReference.cache
+C:\Users\Sander\source\repos\OOPLab3\OOPLab3\obj\Debug\OOPLab3.Form1.resources
+C:\Users\Sander\source\repos\OOPLab3\OOPLab3\obj\Debug\OOPLab3.Properties.Resources.resources
+C:\Users\Sander\source\repos\OOPLab3\OOPLab3\obj\Debug\OOPLab3.csproj.GenerateResource.cache
+C:\Users\Sander\source\repos\OOPLab3\OOPLab3\obj\Debug\OOPLab3.exe
+C:\Users\Sander\source\repos\OOPLab3\OOPLab3\obj\Debug\OOPLab3.pdb
